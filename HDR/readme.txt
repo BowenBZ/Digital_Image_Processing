@@ -1,0 +1,4 @@
+HDRmain.m为一种HDR算法的函数文件，直接运行即可
+HDR_0.1.jpg是参数lamada取0.1时的结果
+HDR_1000.jpg是参数lamada取1000时的结果
+HDR均衡化.jpg是对HDR_0.1jpg进行直方图均衡化后的结果
